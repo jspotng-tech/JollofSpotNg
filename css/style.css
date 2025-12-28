@@ -171,3 +171,9 @@ body {
   color: #b11226;
   text-decoration: none;
 }
+.hero-logo {
+  width: 140px;
+  max-width: 50%;
+  margin: 0 auto 20px;
+  display: block;
+}
