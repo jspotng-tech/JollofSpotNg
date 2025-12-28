@@ -17,7 +17,19 @@ body {
     #fff6eb 100%
   );
 }
+/* BRAND HEADING COLORS */
 
+h1 {
+  color: #d62828; /* Orangered */
+}
+
+h2 {
+  color: #f77f00; /* Orange */
+}
+
+h3 {
+  color: #d62828;
+}
 /* NAVIGATION */
 .navbar {
   display: flex;
