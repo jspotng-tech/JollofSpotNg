@@ -17,18 +17,10 @@ body {
     #fff6eb 100%
   );
 }
-/* BRAND HEADING COLORS */
+/* GLOBAL HEADING STYLE */
 
-h1 {
-  color: #d62828; /* Orangered */
-}
-
-h2 {
-  color: #f77f00; /* Orange */
-}
-
-h3 {
-  color: #d62828;
+h1, h2, h3, h4, h5, h6 {
+  color: #d62828; /* Orangered from logo */
 }
 /* NAVIGATION */
 .navbar {
