@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 22px;
-  background: #25D366;
+  background: orangered;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
@@ -91,12 +91,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .secondary-btn {
-  background: #b11226;
+  background: orangered;
 }
+
 
 .cta-btn:hover,
 .secondary-btn:hover {
-  opacity: 0.9;
+  background: #cc3300;
 }
 
 /* SECTIONS */
