@@ -189,3 +189,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto 20px;
   display: block;
 }
+.menu-image {
+  width: 100%;
+  max-width: 420px;
+  border-radius: 12px;
+  margin: 12px 0 24px 0;
+  display: block;
+}
