@@ -6,9 +6,16 @@
 }
 
 body {
-  background: #ffffff;
+  margin: 0;
   color: #222;
   line-height: 1.6;
+
+  /* Warm cream white with subtle depth */
+  background: linear-gradient(
+    180deg,
+    #fffaf2 0%,
+    #fff6eb 100%
+  );
 }
 
 /* NAVIGATION */
