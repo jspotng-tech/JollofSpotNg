@@ -195,4 +195,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 12px;
   margin: 12px 0 24px 0;
   display: block;
+  /* Smaller image for What We Serve - Jollof Combos */
+.combos-image {
+  max-width: 300px;   /* adjust this number if needed */
+  margin: 12px auto;
+  display: block;
+}
 }
