@@ -192,6 +192,8 @@ h1, h2, h3, h4, h5, h6 {
 .menu-image {
   width: 100%;
   max-width: 420px;
+  height: 260px;            /* controls length */
+  object-fit: cover;        /* crops instead of stretching */
   border-radius: 12px;
   margin: 12px 0 24px 0;
   display: block;
